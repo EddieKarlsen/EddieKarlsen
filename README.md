@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Eddie Karlsen
 - 👀 I’m interested in history
 - 🌱 I’m currently learning Java and C
-- 📫 you can reach me though my email Eddie.Karlsen@protonmail.c
+- 📫 you can reach me though my email Eddie.Karlsen@protonmail.com
 - ⚡ Fun fact: ...
 
 <!---
