@@ -1,4 +1,7 @@
-Hello im Eddie Karlsen im currently studying programming and learning the languages: C, C++ and Java.
-the programm is specalising in embeded develompment whith some focus on Java development.
-im intrested in thermodynamics and history
-if you want to reach  out to me you can doit though my email Eddie.Karlsen@protonmail.com
+## 👋 Hello, I'm Eddie Karlsen
+
+I'm currently studying programming with a focus on embedded systems development. I'm learning the languages C, C++, and Java, with additional emphasis on Java development.
+
+I'm also passionate about thermodynamics and history.
+
+📫 Feel free to reach out to me at: Eddie.Karlsen@protonmail.com
