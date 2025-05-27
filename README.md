@@ -4,4 +4,4 @@ I'm currently studying programming with a focus on embedded systems development.
 
 I'm also passionate about thermodynamics and history.
 
-📫 Feel free to reach out to me at: Eddie.Karlsen@protonmail.com
+Feel free to reach out to me at: Eddie.Karlsen@protonmail.com
