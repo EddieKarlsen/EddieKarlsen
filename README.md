@@ -6,3 +6,4 @@ I'm also passionate about thermodynamics and history.
 
 Feel free to reach out to me at: Eddie.Karlsen@protonmail.com
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EddieKarlsen&layout=compact&theme=dark)
