@@ -10,10 +10,6 @@ Embedded systems & robotics developer — IoT/firmware engineering combined with
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
 
-## Stats
-![Eddie's GitHub stats](https://github-readme-stats.vercel.app/api?username=EddieKarlsen&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EddieKarlsen&layout=compact)
-
 ## Focus areas
 
 ![Embedded](https://img.shields.io/badge/Embedded_systems-555?style=flat)
