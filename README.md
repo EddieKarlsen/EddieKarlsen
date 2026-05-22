@@ -13,7 +13,7 @@ Embedded systems & robotics developer — IoT/firmware engineering combined with
 ## Focus areas
 
 ![Embedded](https://img.shields.io/badge/Embedded_systems-555?style=flat)
-![Robotics](https://img.shields.io/badge/Robotics_(ROS2/MuJoCo)-22314E?style=flat)
+![Robotics](https://img.shields.io/badge/Robotics_(ROS/MuJoCo)-22314E?style=flat)
 ![CV](https://img.shields.io/badge/Computer_vision_(YOLO/AprilTag)-333?style=flat)
 ![IoT](https://img.shields.io/badge/IoT_%26_cloud_(AWS/MQTT)-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
