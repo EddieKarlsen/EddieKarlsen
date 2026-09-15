@@ -26,7 +26,7 @@ Embedded systems & robotics developer — IoT/firmware engineering combined with
 Multi-robot pick-and-place system. YOLOv8 object detection, AprilTag 6DOF pose estimation, custom IK solver, MuJoCo sim-to-real transfer. Built at RISE Connected Intelligence.  
 `C++` `Python` `ROS` `MuJoCo` `YOLOv8` `XML`
 
-### 🌱 [IoT Plant Monitor](https://github.com/EddieKarlsen/...)
+### 🌱 [IoT Plant Monitor](https://github.com/EddieKarlsen/IoT-Plant-Monitoring)
 ESP32 + MQTT/TLS → AWS IoT Core → Lambda → DynamoDB → React/TypeScript dashboard.  
 `C` `AWS` `TypeScript` `React`
 
