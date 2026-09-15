@@ -30,7 +30,7 @@ Multi-robot pick-and-place system. YOLOv8 object detection, AprilTag 6DOF pose e
 ESP32 + MQTT/TLS → AWS IoT Core → Lambda → DynamoDB → React/TypeScript dashboard.  
 `C` `AWS` `TypeScript` `React`
 
-### 🔥 [Hardware-in-the-Loop Thermal Sim](https://github.com/EddieKarlsen/...)
+### 🔥 [Hardware-in-the-Loop Thermal Sim](https://github.com/EddieKarlsen/SimulationTempRatutureProgram)
 ESP32 + Python PID controller against a Fourier/Stefan-Boltzmann thermal model.  
 `C` `Python` `Control theory`
 
